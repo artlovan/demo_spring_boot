@@ -1,0 +1,13 @@
+server:
+  port: 8080
+
+spring:
+  profiles:
+    active: dev
+
+myMessage:
+  messageValue: dev env is active
+
+type: Frameworks
+name: Spring Boot ${type}
+

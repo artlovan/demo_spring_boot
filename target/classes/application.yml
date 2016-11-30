@@ -1,0 +1,13 @@
+spring:
+  profiles:
+    active: dev
+
+#security:
+#  user:
+#    name: admin
+#    password: admin
+
+#server:
+#  context-path:
+#  address: dev
+#  port: 9001
